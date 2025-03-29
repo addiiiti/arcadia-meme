@@ -49,7 +49,7 @@ Memecoin trading is often chaotic, speculative, and intimidating for new users, 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/M-DEV-1/arcadia-meme.git
+git clone https://github.com/addiiiti/arcadia-meme
 ```
 
 2. Navigate to the client directory:
@@ -80,7 +80,7 @@ http://localhost:3000
 
 ## GitHub Repository
 
-[Arcadia.pump GitHub Repository](https://github.com/M-DEV-1/arcadia-meme)
+[Arcadia.pump GitHub Repository](https://github.com/addiiiti/arcadia-meme)
 
 ---
 
